@@ -1,4 +1,4 @@
-# 📖 AI Story Generator – FYP Project
+# 📖 Verse AI – FYP Project
 
 An AI-powered story generation platform where users can input a prompt via text or speech, select a genre, style, and duration, and receive a fully narrated, image-backed story video—all generated using cutting-edge AI models and cloud-based technologies.
 
